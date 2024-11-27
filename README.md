@@ -2,3 +2,6 @@
 ## New Feature Section
 
 # This section introduces the new feature that will be added in the next release. It includes important updates and changes that will improve the project.
+## Version 1.0
+
+This is the first stable release of the project. It includes all major features and improvements.
